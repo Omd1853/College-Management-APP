@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+    padding: 16;
+    border-radius: 8;
+    margin: 4;
+    elevation: 3;
+    background-color: white;
+}
+
+.stats-card {
+    padding: 12;
+    border-radius: 8;
+    elevation: 2;
+}
